@@ -15,4 +15,5 @@ typish==1.9.3
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
+gunicorn==23.0.0
 
